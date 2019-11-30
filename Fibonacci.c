@@ -17,4 +17,5 @@ int main()
       j=s;
     }
   }
+  return 0;
 }
